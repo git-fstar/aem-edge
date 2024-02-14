@@ -4,7 +4,7 @@
   "plugins": [
     {
       "id": "foo",
-      "title": "Foo",
+      "title": "Flop",
       "url": "/tools/sidekick/foo.html"
     },
     {
